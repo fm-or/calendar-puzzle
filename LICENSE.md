@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2025 Felix
+Copyright (c) 2025 [fm-or](https://github.com/fm-or)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
